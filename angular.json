@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular-scss"
+    }
+  },
+  "defaultProject": "angular-scss",
+  "cli": {
+    "analytics": false
+  }
 }
